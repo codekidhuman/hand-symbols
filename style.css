@@ -1,0 +1,15 @@
+.abc
+{
+    height: 300;
+    width: 350;
+    border-style: groove;
+    border-color: darkkhaki;
+    border-width: 3px;
+}
+#header
+{
+    background-color: azure;
+}
+#bg{
+    background-color: darkcyan;
+}
